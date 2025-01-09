@@ -83,11 +83,11 @@
 		<distributionManagement>
         <repository>
             <id>maven-releases</id>
-            <url>git branch: 'main', url: 'https://github.com/zaidkhan132/Blue-Green-Deployment.git'</url>
+            <url>http://15.206.123.229:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>maven-snapshots</id>
-            <url>git branch: 'main', url: 'https://github.com/zaidkhan132/Blue-Green-Deployment.git'</url>
+            <url>http://15.206.123.229:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 
